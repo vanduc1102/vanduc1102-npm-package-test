@@ -1,0 +1,19 @@
+{
+  "name": "vanduc1102-npm-package-test",
+  "version": "1.0.0",
+  "description": "this is a test for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanduc1102/vanduc1102-npm-package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanduc1102/vanduc1102-npm-package-test/issues"
+  },
+  "homepage": "https://github.com/vanduc1102/vanduc1102-npm-package-test#readme"
+}
