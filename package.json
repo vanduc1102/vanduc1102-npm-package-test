@@ -1,6 +1,6 @@
 {
   "name": "vanduc1102-string-uppercase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a test for npm",
   "main": "index.js",
   "scripts": {
